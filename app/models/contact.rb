@@ -1,2 +1,2 @@
-class Contact < ApplicationRecord
+class Contact < ApplicationRecord 
 end
